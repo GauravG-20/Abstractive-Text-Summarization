@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Abstractive text summarization generates a shorter version of a given sentence while attempting to preserve its contextual meaning. In our approach we model the problem using an attentional encoder decoder which ensures that the decoder focuses on the appropriate input words at each step of our generation. Our model relies only on the pre-trained features and can easily be trained in an end to end manner on any large datasets. Our experiments show promising results on the Gigaword dataset using ROGUE as a benchmark for performance measure. 
+Abstractive text summarization generates a shorter version of a given sentence while attempting to preserve its contextual meaning. In our approach, we model the problem using an attentional encoder-decoder which ensures that the decoder focuses on the appropriate input words at each step of our generation. Our model relies only on the pre-trained features and can easily be trained in an end-to-end manner on any large dataset. Our experiments show promising results on the Gigaword dataset using ROGUE as a benchmark for performance measures.
 
 ## 1. Introduction
 
